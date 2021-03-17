@@ -14,18 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "newControls",
+        "Form2",
         "Elements",
-        "todo.json"
+        "sigDone.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "newControls",
+        "Form2",
         "Elements",
-        "DateTimeInput1.json"
+        "imgSig.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form2",
+        "Elements",
+        "btnSaveSig.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form2",
+        "Elements",
+        "btnNewSig.json"
       ]
     }
   ],
@@ -35,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "newControls",
+  "id": "Form2",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

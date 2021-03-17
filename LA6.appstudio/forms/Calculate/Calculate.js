@@ -1,4 +1,4 @@
-/*
+
 let product = 0
 let sum = 0
 
@@ -18,4 +18,3 @@ btnAdd.onclick=function(){
    sum = Number(inptNumberOne.value) + Number(inptNumberTwo.value)
   lblAnswer.textContent = `The sum is ${sum}`
 }
-*/

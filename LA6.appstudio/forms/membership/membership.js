@@ -1,4 +1,4 @@
-/*
+
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 btnEnter.onclick=function(in_list){
   if
@@ -9,6 +9,6 @@ btnEnter.onclick=function(in_list){
     lblName.textContent = "You are not a member."
     }
 }
-*/
+
 
 

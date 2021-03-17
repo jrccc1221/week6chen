@@ -12,10 +12,10 @@
   "enableBrowserBoundsDetection": "true",
   "expanded_pmp": null,
   "formatString": "MM/dd/yyyy",
-  "height": 43,
+  "height": 30,
   "hidden": "",
   "id": "DateTimeInput1",
-  "left": 51,
+  "left": 23,
   "name": "",
   "onclick": "",
   "onmousedown": "",
@@ -33,7 +33,7 @@
   "showCalendarButton": "true",
   "showFooter": "false",
   "style": "",
-  "theme": "classic",
-  "top": 202,
+  "theme": "metrodark",
+  "top": 21,
   "width": 100
 }
